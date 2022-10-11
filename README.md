@@ -1,0 +1,2 @@
+# javascript
+small assignment
