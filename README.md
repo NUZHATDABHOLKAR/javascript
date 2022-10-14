@@ -16,5 +16,11 @@ use technology:html, css, javascript(increment,decrement)
 use technology:html, css, javascript(Math.random,Math.floor(for accurate number))
 
 ## LINK
-[BASIC COUNTER ](https://nd3colorchanger.netlify.app/)
+[COLOR CHANGER ](https://nd3colorchanger.netlify.app/)
+
+## 4)CALCULATOR
+use technology:html, css, javascript(MOSTLY USED FUNCTION PEROPERTY HERE)
+
+## LINK
+[COLOR CHANGER ](https://nd4calculator.netlify.app/)
 
