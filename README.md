@@ -10,8 +10,11 @@ use technology:html, css, javascript
 use technology:html, css, javascript(increment,decrement)
 
 ## LINK
-[SEE WHAT YOU TYPE](https://nd2basiccounter.netlify.app/)
+[BASIC COUNTER ](https://nd2basiccounter.netlify.app/)
 
 ## 3)colorchanger
 use technology:html, css, javascript(Math.random,Math.floor(for accurate number))
+
+## LINK
+[BASIC COUNTER ](https://nd3colorchanger.netlify.app/)
 
