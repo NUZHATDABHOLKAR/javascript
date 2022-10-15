@@ -30,3 +30,9 @@ use technology:html, css, javascript(increment)
 
 ## LINK
 [CLICK THE BUTTON](https://nd-5-clickthebutton.netlify.app/)
+
+##6)BINARY TO DECIMAL 
+use technology:html, css, javascript(parseInt(str,2)
+
+## LINK
+[BINARY TO DECIMAL](https://nd-6-binary2decimal.netlify.app/)
