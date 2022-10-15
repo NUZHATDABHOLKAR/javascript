@@ -28,4 +28,4 @@ use technology:html, css, javascript(MOSTLY USED FUNCTION PEROPERTY HERE)
 use technology:html, css, javascript(increment)
 
 ## LINK
-[COLOR CHANGER ](https://nd-6-clickthebutton.netlify.app/)
+[CLICK THE BUTTON](https://nd-6-clickthebutton.netlify.app/)
