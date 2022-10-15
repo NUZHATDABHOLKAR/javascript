@@ -25,7 +25,7 @@ use technology:html, css, javascript(MOSTLY USED FUNCTION PEROPERTY HERE)
 [CALCULATOR ](https://nd4calculator.netlify.app/)
 
 ## 5)CLICK THE BUTTON
-use technology:html, css, javascript(MOSTLY USED FUNCTION PEROPERTY HERE)
+use technology:html, css, javascript(increment)
 
 ## LINK
-[COLOR CHANGER ](https://nd4calculator.netlify.app/)
+[COLOR CHANGER ](https://nd-6-clickthebutton.netlify.app/)
