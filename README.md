@@ -22,9 +22,9 @@ use technology:html, css, javascript(Math.random,Math.floor(for accurate number)
 use technology:html, css, javascript(MOSTLY USED FUNCTION PEROPERTY HERE)
 
 ## LINK
-[COLOR CHANGER ](https://nd4calculator.netlify.app/)
+[CALCULATOR ](https://nd4calculator.netlify.app/)
 
-## 5)
+## 5)CLICK THE BUTTON
 use technology:html, css, javascript(MOSTLY USED FUNCTION PEROPERTY HERE)
 
 ## LINK
