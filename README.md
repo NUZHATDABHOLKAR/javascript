@@ -41,10 +41,10 @@ use technology:html, css, javascript(parseInt(str,2)
 use technology:html, css, javascript(parseInt(str,2)
 
 ## LINK
-[JOKESGENERATOR](https://nd-7-binary2decimal.netlify.app/)
+[JOKESGENERATOR](nd-7-jokegenerator.netlify.app)
 
 ## 8)QRGENERATOR
 use technology:html, css, javascript(parseInt(str,2)
 
 ## LINK
-[QRGENERATOR]()
+[QRGENERATOR](https://nd-8-qrgenerator.netlify.app/)
