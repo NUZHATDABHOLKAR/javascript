@@ -36,3 +36,15 @@ use technology:html, css, javascript(parseInt(str,2)
 
 ## LINK
 [BINARY TO DECIMAL](https://nd-6-binary2decimal.netlify.app/)
+
+## 7)JOKESGENERATOR
+use technology:html, css, javascript(parseInt(str,2)
+
+## LINK
+[JOKESGENERATOR](https://nd-7-binary2decimal.netlify.app/)
+
+## 8)QRGENERATOR
+use technology:html, css, javascript(parseInt(str,2)
+
+## LINK
+[QRGENERATOR]()
