@@ -41,7 +41,7 @@ use technology:html, css, javascript(parseInt(str,2)
 use technology:html, css, javascript(parseInt(str,2)
 
 ## LINK
-[JOKESGENERATOR](nd-7-jokegenerator.netlify.app)
+[JOKESGENERATOR](https://nd-7-jokegenerator.netlify.app/)
 
 ## 8)QRGENERATOR
 use technology:html, css, javascript(parseInt(str,2)
