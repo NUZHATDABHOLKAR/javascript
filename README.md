@@ -61,5 +61,9 @@ use technology:html, css, javascript
 ## LINK
 [JS QUIZ APP](https://nd-10-jsquizapp.netlify.app/)
 
+## 10)PASSWORD GENERATOR
+use technology:html, css, javascript
 
+## LINK
+[PASSWORD GENERATOR](https://nd-11-passwordgenerator.netlify.app/)
 
