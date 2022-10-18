@@ -32,19 +32,25 @@ use technology:html, css, javascript(increment)
 [CLICK THE BUTTON](https://nd-5-clickthebutton.netlify.app/)
 
 ## 6)BINARY TO DECIMAL 
-use technology:html, css, javascript(parseInt(str,2)
+use technology:html, css, javascript
 
 ## LINK
 [BINARY TO DECIMAL](https://nd-6-binary2decimal.netlify.app/)
 
 ## 7)JOKESGENERATOR
-use technology:html, css, javascript(parseInt(str,2)
+use technology:html, css, javascript
 
 ## LINK
 [JOKESGENERATOR](https://nd-7-jokegenerator.netlify.app/)
 
 ## 8)QRGENERATOR
-use technology:html, css, javascript(parseInt(str,2)
+use technology:html, css, javascript
 
 ## LINK
 [QRGENERATOR](https://nd-8-qrgenerator.netlify.app/)
+
+## 9)ACCORDION
+use technology:html, css, javascript
+
+## LINK
+[ACCORDION]()
