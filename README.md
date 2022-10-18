@@ -1,7 +1,6 @@
 # javascript
 small assignment
 ## 1)SEE WHAT YOU CAN TYPE
-
 use technology:html, css, javascript
 
 ## LINK
@@ -37,13 +36,13 @@ use technology:html, css, javascript
 ## LINK
 [BINARY TO DECIMAL](https://nd-6-binary2decimal.netlify.app/)
 
-## 7)JOKESGENERATOR
+## 7)JOKESGENERATOR-API
 use technology:html, css, javascript
 
 ## LINK
 [JOKESGENERATOR](https://nd-7-jokegenerator.netlify.app/)
 
-## 8)QRGENERATOR
+## 8)QRGENERATOR-API
 use technology:html, css, javascript
 
 ## LINK
