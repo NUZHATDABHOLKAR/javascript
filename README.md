@@ -54,3 +54,12 @@ use technology:html, css, javascript
 
 ## LINK
 [ACCORDION](https://nd-9-accordion.netlify.app/)
+
+## 10)JS QUIZ APP
+use technology:html, css, javascript
+
+## LINK
+[JS QUIZ APP](https://nd-10-jsquizapp.netlify.app/)
+
+
+
