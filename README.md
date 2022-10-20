@@ -79,8 +79,4 @@ use technology:html, css, javascript
 [NAMECONVERSION](https://nd-13-nameconversion.netlify.app/)
 
 
-## 13)ROCKPAPERSCISSOR
-use technology:html, css, javascript
 
-## LINK
-[ROCKPAPERSCISSORN](https://nd-13-rpc.netlify.app/)
