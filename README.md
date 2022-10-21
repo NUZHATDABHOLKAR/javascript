@@ -1,5 +1,9 @@
 # javascript
 small assignment
+
+## Author
+DABHOLKAR NUZHAT
+
 ## 1)SEE WHAT YOU CAN TYPE
 use technology:html, css, javascript
 
