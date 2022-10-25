@@ -7,7 +7,7 @@ Here all project are based on<b> html ,css and javascript</b>
 DABHOLKAR NUZHAT
 
 ## 1)SEE WHAT YOU CAN TYPE
-##LINK
+## LINK
 [SEE WHAT YOU TYPE](https://nd1seewhatyoutype.netlify.app/)
 
 ## 2)BASIC COUNTER
